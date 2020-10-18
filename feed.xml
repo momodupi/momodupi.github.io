@@ -5,23 +5,42 @@
     <description>I'm a Ph.D. student at Electrical and Computer Engineering at The Ohio State University.</description>
     <link>https://momodupi.github.io//</link>
     <atom:link href="https://momodupi.github.io//feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 17 Oct 2020 22:27:03 -0400</pubDate>
-    <lastBuildDate>Sat, 17 Oct 2020 22:27:03 -0400</lastBuildDate>
+    <pubDate>Sun, 18 Oct 2020 02:39:01 -0400</pubDate>
+    <lastBuildDate>Sun, 18 Oct 2020 02:39:01 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
-        <title>Phantom</title>
+        <title>Android Development</title>
         <description>
 </description>
-        <pubDate>Sat, 20 Feb 2016 16:15:00 -0500</pubDate>
-        <link>https://momodupi.github.io//development/design/2016/02/20/phantom-jekyll-template.html</link>
-        <guid isPermaLink="true">https://momodupi.github.io//development/design/2016/02/20/phantom-jekyll-template.html</guid>
+        <pubDate>Mon, 03 Jan 2000 19:00:00 -0500</pubDate>
+        <link>https://momodupi.github.io//development/2000/01/03/ad.html</link>
+        <guid isPermaLink="true">https://momodupi.github.io//development/2000/01/03/ad.html</guid>
         
-        <category>Jekyll</category>
+        <category>Android</category>
         
-        <category>Sass</category>
+        <category>Java</category>
         
-        <category>Bootstrap</category>
+        
+        <category>development</category>
+        
+      </item>
+    
+      <item>
+        <title>Development of Embedded System on EV</title>
+        <description>
+</description>
+        <pubDate>Sun, 02 Jan 2000 19:00:00 -0500</pubDate>
+        <link>https://momodupi.github.io//development/design/2000/01/02/emb.html</link>
+        <guid isPermaLink="true">https://momodupi.github.io//development/design/2000/01/02/emb.html</guid>
+        
+        <category>EV</category>
+        
+        <category>CAN</category>
+        
+        <category>VCS</category>
+        
+        <category>C</category>
         
         
         <category>development</category>
@@ -31,18 +50,18 @@
       </item>
     
       <item>
-        <title>Rescue Themes</title>
+        <title>Optimization, Pricing, and Learning in the Ridehailing Systems</title>
         <description>
 </description>
-        <pubDate>Sat, 20 Feb 2016 10:56:00 -0500</pubDate>
-        <link>https://momodupi.github.io//development/design/2016/02/20/rescue-themes.html</link>
-        <guid isPermaLink="true">https://momodupi.github.io//development/design/2016/02/20/rescue-themes.html</guid>
+        <pubDate>Sat, 01 Jan 2000 19:00:00 -0500</pubDate>
+        <link>https://momodupi.github.io//development/design/2000/01/01/trans.html</link>
+        <guid isPermaLink="true">https://momodupi.github.io//development/design/2000/01/01/trans.html</guid>
         
-        <category>WordPress</category>
+        <category>GameTheory</category>
         
-        <category>PHP</category>
+        <category>QueueingTheory</category>
         
-        <category>Sass</category>
+        <category>Learning</category>
         
         
         <category>development</category>
@@ -52,41 +71,20 @@
       </item>
     
       <item>
-        <title>Weathercast</title>
+        <title>Scheduling, Optimization, and Market Design of EV Charging</title>
         <description>
 </description>
-        <pubDate>Sat, 20 Feb 2016 10:56:00 -0500</pubDate>
-        <link>https://momodupi.github.io//development/2016/02/20/weathercast.html</link>
-        <guid isPermaLink="true">https://momodupi.github.io//development/2016/02/20/weathercast.html</guid>
+        <pubDate>Fri, 31 Dec 1999 19:00:00 -0500</pubDate>
+        <link>https://momodupi.github.io//development/1999/12/31/ev.html</link>
+        <guid isPermaLink="true">https://momodupi.github.io//development/1999/12/31/ev.html</guid>
         
-        <category>JavaScript</category>
+        <category>EV</category>
         
-        <category>AngularJS</category>
+        <category>Regression</category>
         
-        <category>API</category>
+        <category>DP</category>
         
-        <category>Sass</category>
-        
-        
-        <category>development</category>
-        
-      </item>
-    
-      <item>
-        <title>Bloc Jams Angular</title>
-        <description>
-</description>
-        <pubDate>Sat, 20 Feb 2016 09:15:00 -0500</pubDate>
-        <link>https://momodupi.github.io//development/2016/02/20/bloc-jams-angular.html</link>
-        <guid isPermaLink="true">https://momodupi.github.io//development/2016/02/20/bloc-jams-angular.html</guid>
-        
-        <category>JavaScript</category>
-        
-        <category>AngularJS</category>
-        
-        <category>Sass</category>
-        
-        <category>Grunt</category>
+        <category>Scheduling</category>
         
         
         <category>development</category>
