@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hello. I'm Jami Gibbs.</title>
-    <description>I'm a software developer and designer from Chicago creating useful things for the web.</description>
-    <link>https://jamigibbs.github.io/phantom/</link>
-    <atom:link href="https://jamigibbs.github.io/phantom/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 17 Oct 2020 21:47:02 -0400</pubDate>
-    <lastBuildDate>Sat, 17 Oct 2020 21:47:02 -0400</lastBuildDate>
+    <title>Hi. This is Shiping Shao.</title>
+    <description>I'm a Ph.D. student at Electrical and Computer Engineering at The Ohio State University.</description>
+    <link>https://momodupi.github.io//</link>
+    <atom:link href="https://momodupi.github.io//feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 17 Oct 2020 22:23:30 -0400</pubDate>
+    <lastBuildDate>Sat, 17 Oct 2020 22:23:30 -0400</lastBuildDate>
     <generator>Jekyll v3.9.0</generator>
     
       <item>
@@ -14,8 +14,8 @@
         <description>
 </description>
         <pubDate>Sat, 20 Feb 2016 16:15:00 -0500</pubDate>
-        <link>https://jamigibbs.github.io/phantom/development/design/2016/02/20/phantom-jekyll-template.html</link>
-        <guid isPermaLink="true">https://jamigibbs.github.io/phantom/development/design/2016/02/20/phantom-jekyll-template.html</guid>
+        <link>https://momodupi.github.io//development/design/2016/02/20/phantom-jekyll-template.html</link>
+        <guid isPermaLink="true">https://momodupi.github.io//development/design/2016/02/20/phantom-jekyll-template.html</guid>
         
         <category>Jekyll</category>
         
@@ -35,8 +35,8 @@
         <description>
 </description>
         <pubDate>Sat, 20 Feb 2016 10:56:00 -0500</pubDate>
-        <link>https://jamigibbs.github.io/phantom/development/design/2016/02/20/rescue-themes.html</link>
-        <guid isPermaLink="true">https://jamigibbs.github.io/phantom/development/design/2016/02/20/rescue-themes.html</guid>
+        <link>https://momodupi.github.io//development/design/2016/02/20/rescue-themes.html</link>
+        <guid isPermaLink="true">https://momodupi.github.io//development/design/2016/02/20/rescue-themes.html</guid>
         
         <category>WordPress</category>
         
@@ -56,8 +56,8 @@
         <description>
 </description>
         <pubDate>Sat, 20 Feb 2016 10:56:00 -0500</pubDate>
-        <link>https://jamigibbs.github.io/phantom/development/2016/02/20/weathercast.html</link>
-        <guid isPermaLink="true">https://jamigibbs.github.io/phantom/development/2016/02/20/weathercast.html</guid>
+        <link>https://momodupi.github.io//development/2016/02/20/weathercast.html</link>
+        <guid isPermaLink="true">https://momodupi.github.io//development/2016/02/20/weathercast.html</guid>
         
         <category>JavaScript</category>
         
@@ -77,8 +77,8 @@
         <description>
 </description>
         <pubDate>Sat, 20 Feb 2016 09:15:00 -0500</pubDate>
-        <link>https://jamigibbs.github.io/phantom/development/2016/02/20/bloc-jams-angular.html</link>
-        <guid isPermaLink="true">https://jamigibbs.github.io/phantom/development/2016/02/20/bloc-jams-angular.html</guid>
+        <link>https://momodupi.github.io//development/2016/02/20/bloc-jams-angular.html</link>
+        <guid isPermaLink="true">https://momodupi.github.io//development/2016/02/20/bloc-jams-angular.html</guid>
         
         <category>JavaScript</category>
         
