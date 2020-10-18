@@ -4,7 +4,7 @@
  <title>Hi. This is Shiping Shao.</title>
  <link href="https://momodupi.github.io//atom.xml" rel="self"/>
  <link href="https://momodupi.github.io//"/>
- <updated>2020-10-18T02:39:01-04:00</updated>
+ <updated>2020-10-18T03:10:52-04:00</updated>
  <id>https://momodupi.github.io/</id>
  <author>
    <name>Shiping Shao</name>
@@ -32,9 +32,9 @@
  
  <entry>
    <title>Optimization, Pricing, and Learning in the Ridehailing Systems</title>
-   <link href="https://momodupi.github.io//development/design/2000/01/01/trans.html"/>
+   <link href="https://momodupi.github.io//development/2000/01/01/trans.html"/>
    <updated>2000-01-01T19:00:00-05:00</updated>
-   <id>https://momodupi.github.io//development/design/2000/01/01/trans</id>
+   <id>https://momodupi.github.io//development/2000/01/01/trans</id>
    <content type="html">
 </content>
  </entry>
