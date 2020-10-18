@@ -1,7 +1,21 @@
 <div class="content">
   <h3 class="title">{{ post.title }}</h3>
 
-  <p class="excerpt">{{ post.lead_text }}</p>
+  {% if post.lead_text1 != empty %}
+  <p class="excerpt">{{ post.lead_text1 }}</p>
+  {% endif %}
+
+  {% if post.lead_text2 != empty %}
+  <p class="excerpt">{{ post.lead_text2 }}</p>
+  {% endif %}
+
+  {% if post.lead_text3 != empty %}
+  <p class="excerpt">{{ post.lead_text3 }}</p>
+  {% endif %}
+
+  {% if post.lead_text4 != empty %}
+  <p class="excerpt">{{ post.lead_text4 }}</p>
+  {% endif %}
 
   {% if post.project_link != empty %}
   <a href="{{ post.project_link }}" class="project-link"><button class="btn btn-default btn-lg"><i class="fa fa-{{post.button_icon}} fa-lg"></i>{{post.button_text}}</button></a>

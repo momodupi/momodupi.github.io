@@ -45,7 +45,7 @@ Navigation can be customized in `_config.yml` under the `nav_item` key. Default 
 ```yaml
 nav_item:
     - { url: '/', text: 'Home' }
-    - { url: '/about', text: 'About' }
+    - { url: '/CV', text: 'CV' }
 ```
 
 Set the `nav_enable` variable to false in `_config.yml` to disable navigation.
