@@ -1,20 +1,8 @@
 <div class="content">
   <h3 class="title">{{ post.title }}</h3>
 
-  {% if post.lead_text1 != empty %}
-  <p class="excerpt">{{ post.lead_text1 }}</p>
-  {% endif %}
-
-  {% if post.lead_text2 != empty %}
-  <p class="excerpt">{{ post.lead_text2 }}</p>
-  {% endif %}
-
-  {% if post.lead_text3 != empty %}
-  <p class="excerpt">{{ post.lead_text3 }}</p>
-  {% endif %}
-
-  {% if post.lead_text4 != empty %}
-  <p class="excerpt">{{ post.lead_text4 }}</p>
+  {% if post.lead_text != empty %}
+  <p class="excerpt">{{ post.lead_text }}</p>
   {% endif %}
 
   {% if post.project_link != empty %}

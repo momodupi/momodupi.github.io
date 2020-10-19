@@ -5,4 +5,4 @@ permalink: /CV/
 ---
 # CV
 
-<iframe src="/cv.pdf" style="width:100%; height:640pt;" frameborder="0"></iframe>
+<iframe src="/cv.pdf" style="width:100%; height:640pt; border:1pt border-radius:1pt" ></iframe>

@@ -8,8 +8,8 @@
 
         <div class="hero-content">
 
-          {% if site.title != '' %}
-          <h1 class="text-center">{{site.title}}</h1>
+          {% if site.welcome != '' %}
+          <h1 class="text-center">{{site.welcome}}</h1>
           {% endif %}
 
           {% if site.description != '' or site.enable_contact == true %}
@@ -18,10 +18,10 @@
             {{site.description}}
             {% endif %}
 
-            {% if site.enable_contact == true %}
+            <!-- {% if site.enable_contact == true %}
             {% include contact.html %}
             {% include contact-modal.html %}
-            {% endif %}
+            {% endif %} -->
           </p>
           {% endif %}
 
@@ -34,7 +34,7 @@
               <a href="https://www.linkedin.com/in/{{ site.linkedin_username }}"><button class="btn btn-default btn-lg"><i class="fa fa-linkedin fa-lg"></i>LinkedIn</button></a>
             {% endif %}
             {% if site.gitlab_username != '' %}
-              <a href="https://code.osu.edu/{{ site.gitlab_username }}"><button class="btn btn-default btn-lg"><i class="fa fa-github fa-lg"></i>GitLab</button></a>
+              <a href="https://code.osu.edu/{{ site.gitlab_username }}"><button class="btn btn-default btn-lg"><i class="fa fa-gitlab fa-lg"></i>GitLab</button></a>
             {% endif %}
 
           </div>

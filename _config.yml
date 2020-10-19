@@ -13,9 +13,16 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: "Hi. This is Shiping Shao."
+title: "Shiping Shao"
+welcome: "Hi. This is Shiping Shao."
 email: 'shao.367@osu.edu'
-description: "I'm a Ph.D. student at Electrical and Computer Engineering at The Ohio State University."
+description: "I'm a Ph.D. student at Electrical and Computer Engineering at The Ohio State University.<br /><br />
+
+Currently I work on the modeling, control and optimization in the markets of transportation systems.<br /><br />
+
+I'm interested in solving industrial problems with various mathematical tools like <br />
+Reinforcement Learning, Game Theory, Probability Theory, etc."
+
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://momodupi.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
 # twitter_username: 'jamigibbs'
@@ -100,4 +107,5 @@ enable_contact: false
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
+  - { url: 'mailto: shao.367@osu.edu', text: 'Contact' }
   - { url: '/CV', text: 'CV' }
