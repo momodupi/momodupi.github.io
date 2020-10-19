@@ -21,7 +21,9 @@ description: "I'm a Ph.D. student at Electrical and Computer Engineering at The 
 Currently I work on the modeling, control and optimization in the markets of transportation systems.<br /><br />
 
 I'm interested in solving industrial problems with various mathematical tools like <br />
-Reinforcement Learning, Game Theory, Probability Theory, etc."
+Reinforcement Learning, Game Theory, Probability Theory, etc.<br /><br />
+
+I also have experience of coding on various platform, like micro-controller, Android, Raspberry, etc."
 
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://momodupi.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
